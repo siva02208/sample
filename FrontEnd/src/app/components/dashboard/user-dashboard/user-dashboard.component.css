@@ -1,0 +1,12 @@
+nav{
+    background-color: rgb(25, 141, 236);
+}
+b{
+    text-decoration-color: antiquewhite;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
